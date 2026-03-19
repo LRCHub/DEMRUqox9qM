@@ -1,0 +1,80 @@
+# ENHYPEN – Chaconne
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.92] Now the bough breaks
+[00:22.92] 
+[00:40.08] The books I read
+[00:42.77] Said you were a fragile kid
+[00:46.34] Just as I imagined it
+[00:49.56] Your story goes:
+[00:57.56] 
+[00:53.65] Another nosebleed
+[00:56.04] Roses on the pillowcase
+[00:59.20] The fever breaks,
+[01:00.56] And you're back on earth again
+[01:15.56] 
+[01:05.11] You rehearse
+[01:07.27] In the living room
+[01:08.53] The nursemaid comes mid-afternoon
+[01:11.58] To say "you've practiced long enough today"
+[01:33.08] 
+[01:16.71] She takes your bow
+[01:20.14] It's suppertime
+[01:21.72] But oh, your only appetite
+[01:25.21] Was fixed on the chaconne you'd hoped to play
+[01:47.71] 
+[01:43.26] So soon you're off
+[01:45.56] To the academy
+[01:46.95] The honours
+[01:48.61] And the accolades
+[01:57.11] 
+[01:50.27] First a darling
+[01:51.62] Then a marvel
+[01:53.39] When we met
+[01:54.53] I was still a young girl
+[02:06.53] 
+[01:56.72] But you had changed, already famous
+[01:59.87] Your name was a contagion
+[02:03.09] You were vain and hard to take
+[02:06.20] All the same, I was brave
+[02:18.70] 
+[02:09.71] How the tides rise
+[02:12.32] Oh, how the tides rise
+[02:23.32] 
+[02:21.92] I don't suppose you'd tell the truth
+[02:27.20] So I won't ask you anymore
+[02:30.59] All the things that we do
+[02:33.76] To pass the time between the wars
+[02:50.26] 
+[02:36.76] I don't regret a single day
+[02:39.74] Heard your chaconne on every stage
+[02:42.91] But your love sleeps in a velvet case
+[02:46.27] So what'd you bring me for?
+[02:50.61] What'd you bring me for?
+[03:02.61] 
+[03:11.42] Yeah, oh
+[03:15.42] 
+[03:14.74] I hear you keep your pretty wife alive
+[03:19.84] On only brie
+[03:21.91] They say a dozen years ago
+[03:26.05] She could have passed for me
+[03:40.05] 
+[03:28.58] She doesn't trust you with the baby
+[03:31.93] Maybe better that way
+[03:34.66] Safe in your study
+[03:36.65] Going grey
+[03:41.65] 
+[03:40.19] You're at your best
+[03:42.22] When you're alone
+[03:46.46] Above the fray
+[03:49.37] With your chaconne
+[03:58.37] 
+[03:53.05] Now the bells toll
+[03:56.26] Now the bells toll
+[03:59.40] Now the bells toll
+[04:02.77] Now the bells toll
+[04:06.03] Now the bells toll
+[04:09.10] Now the bells toll...
+```
