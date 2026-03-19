@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Chaconne",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2026-03-19T09:10:44.354508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Chaconne Ft. Matthew Santos",
+      "artist": "Dessa",
+      "has_synced": false,
+      "path": "select/01_The_Chaconne_Ft._Matthew_Santos_Dessa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Chaconne",
+      "artist": "Dessa / Matthew Santos",
+      "has_synced": false,
+      "path": "select/02_The_Chaconne_Dessa___Matthew_Santos.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Chaconne",
+      "artist": "Dessa",
+      "has_synced": false,
+      "path": "select/03_The_Chaconne_Dessa.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Chaconne",
+      "artist": "Dessa",
+      "has_synced": true,
+      "path": "select/04_The_Chaconne_Dessa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chaconne",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/05_Chaconne_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chaconne",
+      "artist": "Secret Garden",
+      "has_synced": true,
+      "path": "select/06_Chaconne_Secret_Garden.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chaconne",
+      "artist": "LADIES' CODE",
+      "has_synced": true,
+      "path": "select/07_Chaconne_LADIES'_CODE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chaconne (Arieta mix)",
+      "artist": "LADIES' CODE",
+      "has_synced": true,
+      "path": "select/08_Chaconne_(Arieta_mix)_LADIES'_CODE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Chaconne",
+      "artist": "Dessa feat. Matthew Santos",
+      "has_synced": true,
+      "path": "select/09_The_Chaconne_Dessa_feat._Matthew_Santos.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Chaconne (feat. Matthew Santos)",
+      "artist": "Dessa",
+      "has_synced": true,
+      "path": "select/10_The_Chaconne_(feat._Matthew_Santos)_Dessa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chaconne",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_Chaconne_ENHYPEN.txt"
+    }
+  ]
+}
